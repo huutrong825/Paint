@@ -1,0 +1,17 @@
+﻿  Source.cpp
+e:\hellostdio_vs2015\source.cpp(19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\hellostdio_vs2015\source.cpp(19): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+e:\hellostdio_vs2015\source.cpp(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\hellostdio_vs2015\source.cpp(85): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\hellostdio_vs2015\source.cpp(88): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\hellostdio_vs2015\source.cpp(89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\hellostdio_vs2015\source.cpp(222): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\hellostdio_vs2015\source.cpp(246): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\hellostdio_vs2015\source.cpp(258): warning C4101: 'gm': unreferenced local variable
+graphics.lib(dibutil.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(dibutil.obj)' or at 'E:\HelloStdio_VS2015\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(drawing.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(drawing.obj)' or at 'E:\HelloStdio_VS2015\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(file.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(file.obj)' or at 'E:\HelloStdio_VS2015\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(misc.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(misc.obj)' or at 'E:\HelloStdio_VS2015\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(winbgi.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(winbgi.obj)' or at 'E:\HelloStdio_VS2015\Debug\bgi.pdb'; linking object as if no debug info
+graphics.lib(winthread.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(winthread.obj)' or at 'E:\HelloStdio_VS2015\Debug\bgi.pdb'; linking object as if no debug info
+  HelloStdio_VS2015.vcxproj -> E:\HelloStdio_VS2015\Debug\HelloStdio_VS2015.exe
